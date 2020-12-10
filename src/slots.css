@@ -1,0 +1,22 @@
+.Slots-row
+{
+    
+    display:flex;
+  justify-content: center;
+    
+}
+li{
+    list-style-type:none;
+    border:1px solid red;
+    padding:5px;
+    margin:3px;
+    border-radius: 5px;
+    min-width: 80px;
+}
+.slots_button
+{
+    margin-left:10px;
+    margin-top: 15px;
+}
+
+
